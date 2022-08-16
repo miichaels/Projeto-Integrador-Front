@@ -1,33 +1,34 @@
 # Projetovida
 
-Link
+Link:
+
 projetointegrador-vida.netlify.app
 
-Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 13.3.7.
+----------------------------------------------------------------------------------------------
 
-## Servidor de desenvolvimento
 
-Execute `ng serve` para um servidor dev. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos 
-arquivos de origem.
+<img width="463" alt="image" src="https://user-images.githubusercontent.com/88103166/184921038-c3e7d0d5-2f2e-42b5-a9f9-a17e76fff25e.png">
 
-## Estrutura de código
+-Cadastrar Categoria
 
-Execute `ng generate component component-name` para gerar um novo componente. 
-Você também pode usar `ng generate Directive|pipe|service|class|guard|interface|enum|module`.
+-Cadastrar Produto
 
-## Construir
+----------------------------------------------------------------------------------------------
 
-Execute `ng build` para compilar o projeto. Os artefatos de construção serão armazenados no diretório `dist/`.
 
-## Executando testes de unidade
+Barra de Pesquisa na Loja está funcional para os itens disponiveis.
 
-Execute `ng test` para executar os testes de unidade via [Karma](https://karma-runner.github.io).
 
-## Executando testes de ponta a ponta
+<img width="544" alt="image" src="https://user-images.githubusercontent.com/88103166/184920776-02a70b2a-be31-4960-a515-388697d3a684.png">
 
-Execute `ng e2e` para executar os testes de ponta a ponta por meio de uma plataforma de sua escolha. Para usar este comando, 
-você precisa primeiro adicionar um pacote que implemente recursos de teste de ponta a ponta.
 
-## Mais ajuda
+----------------------------------------------------------------------------------------------
 
-Para obter mais ajuda sobre a CLI Angular, use `ng help` ou confira a página [Visão Geral da CLI Angular e Referência de Comando](https://angular.io/cli).
+
+
+<img width="235" alt="image" src="https://user-images.githubusercontent.com/88103166/184920464-cdcbb18d-660c-4070-8415-709868ec3cb4.png">
+
+
+-É possivel editar a descrição do produto
+
+-Excluir o produto
